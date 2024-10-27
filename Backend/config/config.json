@@ -1,0 +1,4 @@
+{
+    "MongoDBURI": "mongodb+srv://user:pass@readable.mongodb.net/?retryWrites=true&w=majority&appName=readable",
+    "DBPort": 3000
+}

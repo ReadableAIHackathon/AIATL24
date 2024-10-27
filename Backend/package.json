@@ -1,0 +1,27 @@
+{
+    "name": "mongo",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "epub": "^1.2.1",
+        "epub-parser": "^0.2.5",
+        "epub2": "^3.0.2",
+        "epubjs": "^0.3.93",
+        "express": "^4.21.1",
+        "fs": "^0.0.1-security",
+        "html-to-text": "^9.0.5",
+        "http": "^0.0.1-security",
+        "https": "^1.0.0",
+        "jsdom": "^25.0.1",
+        "mongoose": "^8.7.3",
+        "path": "^0.12.7",
+        "pdf-lib": "^1.17.1",
+        "pdfjs-dist": "^4.7.76",
+        "undici": "^6.20.1",
+        "uuid": "^10.0.0"
+    }
+}

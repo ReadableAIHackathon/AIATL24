@@ -1,0 +1,54 @@
+{
+    "complexityLevels": [
+        {
+            "Level": 1,
+            "Complexity": {
+                "SentenceStructure": "single clause",
+                "VocabularyFamiliarity": "basic",
+                "ConceptualDensity": "very low",
+                "Cohesion": "explicit"
+            },
+            "Description": "Very simple structures resembling level 5 but significantly less complex, utilizing basic vocabulary and clear, concrete ideas."
+        },
+        {
+            "Level": 2,
+            "Complexity": {
+                "SentenceStructure": "simple",
+                "VocabularyFamiliarity": "basic",
+                "ConceptualDensity": "low",
+                "Cohesion": "explicit"
+            },
+            "Description": "Basic vocabulary and concrete ideas presented in simple sentences, lacking the depth and cohesion found in level 5."
+        },
+        {
+            "Level": 3,
+            "Complexity": {
+                "SentenceStructure": "simple with some compound sentences",
+                "VocabularyFamiliarity": "common",
+                "ConceptualDensity": "low",
+                "Cohesion": "mostly explicit"
+            },
+            "Description": "Contains a mix of simple and compound sentences with familiar vocabulary, lacking the complexity and abstraction of level 5."
+        },
+        {
+            "Level": 4,
+            "Complexity": {
+                "SentenceStructure": "compound with introductory clauses",
+                "VocabularyFamiliarity": "common",
+                "ConceptualDensity": "moderate",
+                "Cohesion": "slightly implicit"
+            },
+            "Description": "Slightly less complex than level 5, featuring compound sentences with introductory clauses and familiar vocabulary, but with less abstraction and cohesion."
+        },
+        {
+            "Level": 5,
+            "Complexity": {
+                "SentenceStructure": "highly complex with multiple clauses and abstractions",
+                "VocabularyFamiliarity": "advanced and specialized",
+                "ConceptualDensity": "very high",
+                "Cohesion": "fully implicit"
+            },
+            "Description": "The exact original text provided."
+        }
+    ]
+}
