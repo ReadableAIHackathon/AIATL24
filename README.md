@@ -17,17 +17,18 @@ Readable is designed to improve reading skills by making complex texts accessibl
 # Installation
 **Note:** Installation instructions will be provided once the repository is made public.
 
-# Clone the repository:
+## Clone the repository:
 ```bash
 git clone https://github.com/yourusername/readable.git
 ```
-# Install dependencies:
+
+## Install dependencies:
 ```bash
 cd readable
 npm install
 ```
 
-# Set up environment variables:
+## Set up environment variables:
 Configure your .env file with the required API keys and database URIs.
 Run the application:
 ```bash
@@ -41,7 +42,8 @@ npm run dev
 - Read Aloud: Utilize the voiceover feature to read aloud and receive proficiency assessments.
 - Earn Bamboo: Gain bamboo points by reading and challenging yourself with higher difficulty levels.
 - Feed Paul the Panda: Use your bamboo to feed and grow your virtual mascot.
-- Technologies Used
+
+# Technologies Used
 - Front-end: Next.js, React
 - Authentication: NextAuth.js, Google OAuth
 - Back-end: Python, Node.js
@@ -56,7 +58,6 @@ npm run dev
 - Database: Implemented complex schemas in MongoDB to store user data, book details, reading progress, bamboo points, and Paul the Panda's growth.
 - Adjustable Text Complexity: The slider activates a robust back-end workflow that adjusts text complexity using the Anthropic API and custom prompts.
 - Voiceover Feature: Created a custom algorithm using Scikit-Learn to assess reading proficiency based on user voice input.
-
 
 # Challenges
 - API Integration: Coordinating requests between the front-end, database, and back-end scripts was more complex than anticipated.
